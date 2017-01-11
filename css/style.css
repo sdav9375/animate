@@ -5,7 +5,8 @@
   color: inherit;
   padding: 20px;
   margin: 50px auto 50px;
-  border: 2px solid #f2b007
+  border: 2px solid #f2b007;
+  position: relative;
 }
 
 #controller {
